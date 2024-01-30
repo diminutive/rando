@@ -17,6 +17,7 @@
       <SrcRect xOff="0" yOff="0" xSize="1200" ySize="1200" />
       <DstRect xOff="230404.5" yOff="123600" xSize="1200" ySize="1200" />
     </SimpleSource>
+  <SimpleSource>
       <SourceFilename relativeToVRT="1">COP90_hh/Copernicus_DSM_COG_30_N28_00_E089_00_DEM.tif</SourceFilename>
       <SourceBand>1</SourceBand>
       <SourceProperties RasterXSize="1200" RasterYSize="1200" DataType="Float32" BlockXSize="2048" BlockYSize="2048" />
